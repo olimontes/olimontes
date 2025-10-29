@@ -10,6 +10,6 @@ Atualmente, estou aprimorando meus estudos em:
 🐳 Docker
 
 📬 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO-AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/SEU-USUARIO-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://linkedin.com/in/SEU-USUARIO-AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=social&logo=gmail)](mailto:SEU-EMAIL@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=social&logo=instagram)](https://instagram.com/SEU-USUARIO-AQUI)
