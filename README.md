@@ -30,3 +30,4 @@ Tecnologias: Java, APIs REST, PostgreSQL, MVC
 📫 Contato
 - 📧 E-mail: fgabrieloliveira1@gmail.com
 - 💼 GitHub: https://github.com/olimontes
+- 💼 LinkedIn: [linkedin.com/in/fr](https://www.linkedin.com/in/frankmontes01/)
