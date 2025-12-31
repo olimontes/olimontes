@@ -4,7 +4,7 @@
 
 ☕ Trabalho principalmente com Java e PHP, possuo experiência sólida em bancos de dados relacionais 🗄️, com prática em PostgreSQL 🐘. Gosto de enfrentar desafios 🧠, aprender o que ainda não sei 📚 e aplicar boas práticas de arquitetura de software 🏗️ e APIs REST 🔗.
 
-🌱 Atualmente, estou me aprofundando em Spring Boot 🍃, testes unitários 🧪 e Python com Django 🐍, com o objetivo de conquistar minha primeira oportunidade profissional 💼 como desenvolvedor 👨‍💻.
+🌱 Atualmente, estou me aprofundando em Spring Boot 🍃 e Python com Django 🐍, com o objetivo de conquistar minha primeira oportunidade profissional 💼 como desenvolvedor 👨‍💻.
 💻 Tecnologias Principais
 
 🧑‍💻 Linguagens
