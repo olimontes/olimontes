@@ -7,7 +7,7 @@
 🌱 Atualmente, estou me aprofundando em Spring Boot 🍃 e Python com Django 🐍, com o objetivo de conquistar minha primeira oportunidade profissional 💼 como desenvolvedor 👨‍💻.
 💻 Tecnologias Principais
 
-🧑‍💻 Linguagens
+🧑‍💻 Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
