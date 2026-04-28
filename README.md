@@ -1,6 +1,6 @@
 👋 Olá, eu sou Frank Montes 🚀
 
-🎓 Sou estudante do 7º período de Ciência da Computação, com foco em desenvolvimento backend 💻. Comecei a programar em 2022, ao entrar na faculdade, motivado pela curiosidade 🤔 de entender como o código transforma ideias 💡 em soluções reais ⚙️.
+🎓 Sou estudante do 8º período de Ciência da Computação, com foco em desenvolvimento backend 💻. Comecei a programar em 2022, ao entrar na faculdade, motivado pela curiosidade 🤔 de entender como o código transforma ideias 💡 em soluções reais ⚙️.
 
 ☕ Trabalho principalmente com Java e PHP, possuo experiência sólida em bancos de dados relacionais 🗄️, com prática em PostgreSQL 🐘. Gosto de enfrentar desafios 🧠, aprender o que ainda não sei 📚 e aplicar boas práticas de arquitetura de software 🏗️ e APIs REST 🔗.
 
@@ -21,10 +21,10 @@
 
 
 🚀 Projetos em Destaque
-📌 Vibe Flow
+📌 Setlive
 
 Protótipo de aplicativo para criação dinâmica de repertórios musicais, com sugestões baseadas na vibe do público e integração com o Spotify.
-Tecnologias: Java, APIs REST, PostgreSQL, MVC
+Tecnologias: Django, APIs REST, PostgreSQL, MVC
 
 📫 Contato
 - 📧 E-mail: fgabrieloliveira1@gmail.com
