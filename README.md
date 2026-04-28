@@ -2,9 +2,9 @@
 
 🎓 Sou estudante do 8º período de Ciência da Computação, com foco em desenvolvimento backend 💻. Comecei a programar em 2022, ao entrar na faculdade, motivado pela curiosidade 🤔 de entender como o código transforma ideias 💡 em soluções reais ⚙️.
 
-☕ Trabalho principalmente com Java e PHP, possuo experiência sólida em bancos de dados relacionais 🗄️, com prática em PostgreSQL 🐘. Gosto de enfrentar desafios 🧠, aprender o que ainda não sei 📚 e aplicar boas práticas de arquitetura de software 🏗️ e APIs REST 🔗.
+☕ Trabalho principalmente com Java e Python, possuo experiência sólida em bancos de dados relacionais 🗄️, com prática em PostgreSQL 🐘. Gosto de enfrentar desafios 🧠, aprender o que ainda não sei 📚 e aplicar boas práticas de arquitetura de software 🏗️ e APIs REST 🔗.
 
-🌱 Atualmente, estou me aprofundando em Spring Boot 🍃 e Python com Django 🐍, com o objetivo de conquistar minha primeira oportunidade profissional 💼 como desenvolvedor 👨‍💻.
+🌱 Atualmente, estou me aprofundando em Spring Boot 🍃 e Django 🐍, com o objetivo de conquistar minha primeira oportunidade profissional 💼 como desenvolvedor 👨‍💻.
 💻 Tecnologias Principais
 
 🧑‍💻 Tecnologias
