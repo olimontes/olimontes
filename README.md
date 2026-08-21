@@ -1,5 +1,3 @@
-Claro. Eu deixaria mais natural e direto, evitando aquela aparência de README “gerado por IA” e sem exagerar nas tecnologias no texto de apresentação.
-
 # Olá, eu sou Frank Montes 👋
 
 Sou estudante de **Ciência da Computação** e desenvolvedor **Full Stack**. Comecei a programar em 2022, quando entrei na faculdade, e desde então venho aprendendo principalmente através de projetos pessoais e acadêmicos.
