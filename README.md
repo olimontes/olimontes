@@ -1,32 +1,52 @@
-👋 Olá, eu sou Frank Montes 🚀
+Claro. Eu deixaria mais natural e direto, evitando aquela aparência de README “gerado por IA” e sem exagerar nas tecnologias no texto de apresentação.
 
-🎓 Sou estudante do 8º período de Ciência da Computação, com foco em desenvolvimento backend 💻. Comecei a programar em 2022, ao entrar na faculdade, motivado pela curiosidade 🤔 de entender como o código transforma ideias 💡 em soluções reais ⚙️.
+# Olá, eu sou Frank Montes 👋
 
-☕ Trabalho principalmente com Java e Python, possuo experiência sólida em bancos de dados relacionais 🗄️, com prática em PostgreSQL 🐘. Gosto de enfrentar desafios 🧠, aprender o que ainda não sei 📚 e aplicar boas práticas de arquitetura de software 🏗️ e APIs REST 🔗.
+Sou estudante de **Ciência da Computação** e desenvolvedor **Full Stack**. Comecei a programar em 2022, quando entrei na faculdade, e desde então venho aprendendo principalmente através de projetos pessoais e acadêmicos.
 
-🌱 Atualmente, estou me aprofundando em Spring Boot 🍃 e Django 🐍, com o objetivo de conquistar minha primeira oportunidade profissional 💼 como desenvolvedor 👨‍💻.
-💻 Tecnologias Principais
+Atualmente, estou focando meus estudos em **C# e .NET**, buscando evoluir tanto no desenvolvimento backend quanto no frontend e entender cada vez melhor como construir aplicações bem estruturadas.
 
-🧑‍💻 Tecnologias
+Também tenho experiência prática com **Java** e **Python**, principalmente utilizando **Django**, além de trabalhar com bancos de dados relacionais como PostgreSQL, MySQL e SQLite.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+Gosto de aprender colocando as coisas em prática, criando projetos, testando novas tecnologias e tentando melhorar um pouco a cada desenvolvimento.
 
-🔧 Banco de Dados
+## Tecnologias
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
+### Linguagens e Frameworks
 
-🔁 Versionamento e Metodologias
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/GitHub-336791?style=for-the-badge&logo=github&logoColor=white)
+### Banco de Dados
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
-🚀 Projetos em Destaque
-📌 Setlive
+### Ferramentas
 
-Protótipo de aplicativo para criação dinâmica de repertórios musicais, com sugestões baseadas na vibe do público e integração com o Spotify.
-Tecnologias: Django, APIs REST, PostgreSQL, MVC
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
-📫 Contato
-- 📧 E-mail: fgabrieloliveira1@gmail.com
-- 💼 GitHub: https://github.com/olimontes
-- 💼 LinkedIn: [linkedin.com/in/fr](https://www.linkedin.com/in/frankmontes01/)
+## SetLive
+
+Meu principal projeto, criado para ajudar músicos a organizar e montar seus repertórios de forma simples e prática.
+
+**[Acessar o SetLive](https://setlive-frontend.onrender.com/)**
+
+## Portfólio
+
+Aqui você pode conhecer melhor meus projetos e um pouco mais sobre meu trabalho.
+
+**[Acessar meu portfólio](https://olimontes.github.io/portifolio/)**
+
+## Contato
+
+* **E-mail:** [fgabrieloliveira1@gmail.com](mailto:fgabrieloliveira1@gmail.com)
+* **LinkedIn:** [linkedin.com/in/frankmontes01](https://www.linkedin.com/in/frankmontes01/)
+* **GitHub:** [github.com/olimontes](https://github.com/olimontes)
